@@ -1,0 +1,26 @@
+*{
+    overflow: hidden;
+}
+ body
+ {
+     margin: 0;
+     background: #331832;
+ }
+ p
+ {
+     position: absolute;
+     width: 400px;
+     height: 600px;
+     font-size: 48px;
+     color: white;
+     top: 245px;
+     left: 840px;
+     text-align: left;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+ }
+ canvas
+ {
+     border: 0px;
+     margin: 16px;
+ }
